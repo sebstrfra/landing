@@ -1,0 +1,21 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('https://source.unsplash.com/1600x900/?productivity');
+  height: 100vH;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 80px;
+  margin-bottom: 0px;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+}
+
